@@ -1,4 +1,4 @@
-Herkese Merhabalar;
+Herkese Merhabalar,
 firebase ile fotograf ve not paylasilabilen, email ve sifre ile giris yapilan fotograf paaylasim uygulamasi📱⚡️
 
 <img width="250" alt="Ekran Resmi 2024-05-20 17 41 41" src="https://github.com/omerfi66/fotopaylasimApp/assets/120007024/da33b069-d24e-4bdd-8941-8bfd3b1edcb3">
